@@ -39,8 +39,8 @@ You can call any of the methods provided by the class as needed. For example, to
 
 For further inquiries or contributions, feel free to reach out through the following channels:
 
-    Telegram: https://t.me/PythonLearn0
-    Email: cloner174.org@gmail.com
+Telegram:     https://t.me/PythonLearn0
+Email:        cloner174.org@gmail.com
 
 # Acknowledgments
 
