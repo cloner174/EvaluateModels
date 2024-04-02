@@ -23,17 +23,17 @@ Before using the `EvaluateModels` class, ensure that you have installed the foll
 
 To utilize the functionalities provided by the `EvaluateModels` class, first import the necessary packages and then instantiate the class:
 
-  import matplotlib.pyplot as plt
-  import numpy as np
-  from EvaluateModels import EvaluateModels
-  evaluator = EvaluateModels()
+    import matplotlib.pyplot as plt
+    import numpy as np
+    from EvaluateModels import EvaluateModels
+    evaluator = EvaluateModels()
 
 # After instantiation 
 
 You can call any of the methods provided by the class as needed. For example, to plot the MAE over different forecast horizons:
 
-  mae_dict = {1: 0.1, 2: 0.15, 10: 0.2}
-  evaluator.plot_mae_over_time(mae_dict)
+    mae_dict = {1: 0.1, 2: 0.15, 10: 0.2}
+    evaluator.plot_mae_over_time(mae_dict)
 
 # Contact Information
 
