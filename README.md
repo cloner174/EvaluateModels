@@ -25,7 +25,7 @@ To utilize the functionalities provided by the `EvaluateModels` class, first imp
 
     import matplotlib.pyplot as plt
     import numpy as np
-    from EvaluateModels import EvaluateModels
+    from evaluate import EvaluateModels
     evaluator = EvaluateModels()
 
 # After instantiation 
