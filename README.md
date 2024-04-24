@@ -35,6 +35,10 @@ You can call any of the methods provided by the class as needed. For example, to
     mae_dict = {1: 0.1, 2: 0.15, 10: 0.2}
     evaluator.plot_mae_over_time(mae_dict)
 
+## Mistakes and Corrections
+
+To err is human, and nobody likes a perfect person! If you come across any mistakes or if you have questions, feel free to raise an issue or submit a pull request. Your contributions to improving the content are highly appreciated. Please refer to GitHub contributing guidelines for more information on how to participate in the development.
+
 # Contact Information
 
 For further inquiries or contributions, feel free to reach out through the following channels:
