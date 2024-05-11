@@ -1,4 +1,4 @@
-#                            #                   #                                   In the name of God    #      #
+#      #               #                        In the name of God                    #      #
 #
 #Github.com/cloner174
 #cloner174.org@gmail.com
